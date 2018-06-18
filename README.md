@@ -8,7 +8,7 @@ used to decide whether to grant loans to future customers.
 
 ### Results
 
-Feature engineering, exploratory data analysis and visualization, as well as two solutions using a logistic regression and a random forest classifier are shown in [loan.ipynb](loan.ipynb)
+Feature engineering, exploratory data analysis and visualization, as well as two solutions using a logistic regression and a random forest classifier are shown in [loan_eda_modeling.ipynb](loan_eda_modeling.ipynb)
 
 ### Reference
 
