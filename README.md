@@ -8,7 +8,7 @@ used to decide whether to grant loans to future customers.
 
 ### Results
 
-Feature engineering, exploratory data analysis and visualization, as well as two solutions using a logistic regression and a random forest classifier are shown in [loan_eda_modeling.ipynb](loan_eda_modeling.ipynb). Based on the methods developed in loan_eda_modeling.ipynb, a pipeline using object-oriented programming is implemented in [loan_oop.ipynb](loan_oop.ipynb).
+Feature engineering, exploratory data analysis and visualization, as well as two solutions using a logistic regression and a random forest classifier are shown in [loan_eda_modeling.ipynb](loan_eda_modeling.ipynb). Based on the methods developed in [loan_eda_modeling.ipynb](loan_eda_modeling.ipynb), a pipeline using object-oriented programming is implemented in [loan_oop.ipynb](loan_oop.ipynb).
 
 
 ### Reference
